@@ -1,4 +1,5 @@
 [Minhas Soluções]
 *Descrever soluções
 
-\include{regra Mobius}
+\include{seuarquivo}
+/*Mobius altera/*
