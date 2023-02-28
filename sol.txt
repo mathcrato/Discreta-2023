@@ -1,4 +1,4 @@
 [Minhas Soluções]
 *Descrever soluções
 
-//Sol Aqui
+\include{regra Mobius}
