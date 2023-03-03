@@ -2,4 +2,4 @@
 
 \input{sol.tex}
 
-/%/Soluções anteriores
+%/Soluções anteriores
