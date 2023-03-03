@@ -2,4 +2,4 @@
 *Descrever soluções
 
 \include{seuarquivo}
-/* Mobius altera/*
+* Mobius altera*
