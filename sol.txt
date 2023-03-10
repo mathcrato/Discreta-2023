@@ -3,3 +3,9 @@
 
 \include{seuarquivo}
 * Mobius altera*
+//Minhas soluções
+
+\input{sol.tex}
+
+%%----------------
+% Soluções anteriores
